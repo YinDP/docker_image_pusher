@@ -1,3 +1,5 @@
 nginx
 redis
 ubuntu
+tomcat
+hadoop

@@ -1,1 +1,1 @@
-mafgwo/wkhtmltopdf-nodejs:11.15.0
+node:11.15.0

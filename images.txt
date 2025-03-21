@@ -1,1 +1,1 @@
-farismnrr/open-web-ui
+redis/redis-stack-server

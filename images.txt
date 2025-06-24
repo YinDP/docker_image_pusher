@@ -1,1 +1,1 @@
-redis/redis-stack-server
+docker pull python:3.12.11

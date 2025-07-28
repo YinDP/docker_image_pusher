@@ -1,1 +1,1 @@
-mcp/gitlab
+gitlab/gitlab-ce

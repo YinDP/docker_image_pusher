@@ -1,1 +1,1 @@
-confluentinc/cp-zookeeper:7.3.3
+mongo:6.0.10

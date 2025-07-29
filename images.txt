@@ -1,1 +1,1 @@
-onfluentinc/cp-zookeeper:7.3.3
+confluentinc/cp-kafka:7.3.3

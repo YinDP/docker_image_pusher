@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.2.4-ce.0
+gitlab/gitlab-runner:alpine3.18

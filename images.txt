@@ -1,1 +1,1 @@
-dpanel/dpanel:latest
+astrbot/astrbot:latest

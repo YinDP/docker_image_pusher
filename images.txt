@@ -1,1 +1,1 @@
-dushixiang/kafka-map
+mongo:4.4

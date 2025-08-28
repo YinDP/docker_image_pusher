@@ -1,1 +1,1 @@
-mongo:4.4
+debian:bullseye-slim

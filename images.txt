@@ -1,1 +1,1 @@
-linuxserver/rustdesk:1.4.1
+rustdesk/rustdesk-server

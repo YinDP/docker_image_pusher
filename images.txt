@@ -1,1 +1,1 @@
-nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04
+nginx:1.25-alpine

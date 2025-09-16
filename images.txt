@@ -1,1 +1,1 @@
-python:3.11-slim
+cuda:12.4.1-cudnn-runtime-ubuntu22.04

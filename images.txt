@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+node:18-alpine

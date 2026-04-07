@@ -1,1 +1,1 @@
-cropflre/nowen-video
+node:20-alpine
